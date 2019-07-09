@@ -1,6 +1,6 @@
 # SpringCloudDemos
 
-#运行eureka-server服务端
+#运行eureka-server服务端  
 1、windows需要在hosts中添加映射  
 
 127.0.0.1 master  
