@@ -7,7 +7,7 @@
 127.0.0.1 backup1  
 127.0.0.1 backup2
 
-2、使用eclipse启动时，分别指定不同的active propfiles，启动三个eureka-server  
+2、使用eclipse启动时，分别指定不同的active propfiles，这里使用的是maven启动三个eureka-server  
 
 spring-boot:run -Dspring.profiles.active=peer1  
 spring-boot:run -Dspring.profiles.active=peer2  
